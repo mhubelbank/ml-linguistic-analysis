@@ -1,5 +1,5 @@
-<h1>README, ML Presidential Speech Analysis Project</h1>
-<h3>Authored by users @conDavis, @mhubelbank, and @odaily</h3>
+# README, ML Presidential Speech Analysis Project
+#### Authored by users @conDavis, @mhubelbank, and @odaily
 
 For our final DS3000 project, we aim to analyze speech data of the 45 United States presidents. Extracting from an online corpora, we identify such features as the term frequency and importance of various social issues, as well as the overall speech linguistic complexity via applying the Flesch-Kincaid readability tests. We also extract the outcome variables of political party, speaker, and time period for each presidential speech.
 
