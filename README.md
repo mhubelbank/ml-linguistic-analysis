@@ -1,5 +1,5 @@
 ## README
-#### Authored by users @conDavis, @mhubelbank, and @odaily
+#### Authored by users @mhubelbank, @conDavis, and @odaily.
 
 This is a clone of the repository for the final DS3000 project of Constance Davis, Eoin Daly, and Mara Hubelbank at Northeastern University. For this project, we set out to perform a wholistic analsis of the speech data of United States presidents; the scope of this project includes data webscraping, preprocessing, linguistic and numerical analysis, hypothesis testing, visualization, and building/testing/tuning a ML model. 
 
