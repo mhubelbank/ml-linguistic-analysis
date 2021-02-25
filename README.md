@@ -1,7 +1,7 @@
 ## README
 #### Authored by users @mhubelbank, @conDavis, and @odaily.
 
-This is a clone of the repository for the final DS3000 project of Constance Davis, Eoin Daly, and Mara Hubelbank at Northeastern University. For this project, we set out to perform a wholistic analsis of the speech data of United States presidents; the scope of this project includes data webscraping, preprocessing, linguistic and numerical analysis, hypothesis testing, visualization, and building/testing/tuning a ML model. 
+This is a clone of the repository for the final DS3000 project of Constance Davis, Eoin Daly, and Mara Hubelbank at Northeastern University. For this project, we set out to perform a wholistic analsis of the speech data of United States presidents; the scope of this project includes data webscraping, preprocessing, linguistic/numerical analysis, hypothesis testing, visualization, and building/testing/tuning a ML model. 
 
 Extracting from an online corpora, we identify such features as the term frequency and Tfidf importance of various social issues, as well as the overall speech linguistic complexity via applying the Flesch-Kincaid readability tests. We also extract the outcome variables of political party, speaker, and time period for each presidential speech.
 
